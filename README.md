@@ -15,7 +15,7 @@ Task3 – Download Postman
 
 Query using the following:
 /api/programs/KIeUZ3dtePm.json?fields=programStages
-Notice the output only includes the three fields included in the query
+Notice the output only includes 1 field included in the query
             Question: What kind of metadata object is UID: UvHrxfyqDME?
 Task 4 
 To explore the Mass LLIN Campaign 2023 program, you need the UID for the program. Construct a query for programs.
